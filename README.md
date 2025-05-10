@@ -55,7 +55,7 @@ src/
 
 
 # 1. Clone the repo
-git clone https://github.com/your-username/softsell-assignment.git
+git clone git remote add origin https://github.com/Arvindkumar20/task.git
 cd softsell-assignment
 
 # 2. Install dependencies
